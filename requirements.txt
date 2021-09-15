@@ -1,0 +1,9 @@
+attrs==21.2.0
+iniconfig==1.1.1
+packaging==21.0
+pluggy==1.0.0
+py==1.10.0
+pyparsing==2.4.7
+pytest==6.2.5
+-e git+https://github.com/Cecile-Hirschauer/TheMarsRover.git@b89a2b75a10105f9565fd76815ada9cc5cbbe2ce#egg=TheMarsRover
+toml==0.10.2

@@ -1,0 +1,6 @@
+README.md
+setup.py
+TheMarsRover.egg-info/PKG-INFO
+TheMarsRover.egg-info/SOURCES.txt
+TheMarsRover.egg-info/dependency_links.txt
+TheMarsRover.egg-info/top_level.txt
