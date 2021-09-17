@@ -4,7 +4,7 @@ from mars_rover.plateau import Plateau
 
 
 class TestRover(unittest.TestCase):
-    
+      
     def test_rover_initial_position(self):
         rover = Rover(1, 2, 'N')
         self.assertEqual(rover.position_x, 1)

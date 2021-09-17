@@ -1,3 +1,5 @@
 tmrk/
 .pytest_cache
 */__pycache__
+tests/__pycache__
+mars_rover/__pycache__
